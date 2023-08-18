@@ -1,1 +1,3 @@
 # Puzzle4
+
+A certain town comprises of 100 married couples. Everyone in the town lives by the following rule: If a husband cheats on his wife, the husband is executed as soon as his wife finds out about him. All the women in the town only gossip about the husbands of other women. No woman ever tells another woman if her husband is cheating on her.  So every woman in the town knows about all the cheating husbands in the town except her own. Husbands always remain silent. One day, the mayor of the town announces to the whole town that there is at least 1 cheating husband in the town. What do you think happens?
